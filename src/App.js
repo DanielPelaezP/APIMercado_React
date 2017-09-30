@@ -37,7 +37,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Mercado search 'dcamilobj'</h1>
+          <h1 className="App-title">Mercado search 'DanielPelaezP'</h1>
         </header>
         <p className="App-intro">
          Aplicación para el curso 'Desarrollo de apps empresariales' UdeA
